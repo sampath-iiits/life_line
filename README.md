@@ -63,16 +63,7 @@ This Web Portal is designed to help people to find their Ideal Hospital or Ideal
      Frontend: ReactJS, Sessions, Cookies
      Additional tools: Git, GitHub
 
-### GitHub link: https://github.com/srawan-meesala/lifeline-fdfed
 
-## Contributions:
 
-- Srawan - Home page, Search Bar, Book Appointments, Sessions
 
-- Kovid - Blogs, Organ Donation, Blood Banks, Back End, Router Middleware
 
-- Charan - Dashboards, Navbar, Footer and Misc fontend part, Multer Middleware
-
-- Sampath - Pharmacy, Cart, Login, Register, Error Handling
-
-- Heshvitha - Admin part, Feedback form, Validations, Morgan Middleware
